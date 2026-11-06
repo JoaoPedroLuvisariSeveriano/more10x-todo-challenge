@@ -1,0 +1,2 @@
+backend/bin/* text eol=lf
+backend/Dockerfile text eol=lf
