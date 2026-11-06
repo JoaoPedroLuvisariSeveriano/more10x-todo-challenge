@@ -5,6 +5,7 @@
   namespace :api do
     namespace :v1 do
       resources :categories
+      resources :tasks
     end
   end
 end
